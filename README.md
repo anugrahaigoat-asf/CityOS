@@ -132,6 +132,31 @@ There are several areas I would like to improve in future versions:
 * Expanded environmental features
 * Better mobile support
 
+## Screenshots
+
+### CityOS
+
+![CityOS](screenshots/cityos-page-1.png)
+
+### AI Electricity Bill Analyser
+
+![AI Electricity Bill Analyser](screenshots/cityos-page-4.png)
+
+### Civic Grievance & AI Hub
+
+![Civic Grievance & AI Hub](screenshots/cityos-page-7.png)
+
+### AirRoute
+
+![AirRoute](screenshots/cityos-page-9.png)
+
+### ECO3D
+
+![ECO3D](screenshots/cityos-page-10.png)
+
+### CarbonQuest
+
+![CarbonQuest](screenshots/cityos-page-11.png)
 ## Project Status
 
 CityOS is currently a live prototype.
